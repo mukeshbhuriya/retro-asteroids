@@ -1,5 +1,3 @@
-Here is a polished, ready-to-use **README.md** file based on your content:
-
 ---
 
 # 🚀 Retro Asteroids 8-Bit
