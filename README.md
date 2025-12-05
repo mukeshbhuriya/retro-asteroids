@@ -11,7 +11,7 @@ A high-contrast, vector-style Asteroids-inspired arcade game built entirely in a
 ## 🔴 Play Now
 
 👉 **Play in your browser**
-*(Host your HTML file and insert the link above)*
+*(https://mukeshbhuriya.github.io/retro-asteroids/)*
 
 ---
 
