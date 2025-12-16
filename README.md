@@ -2,7 +2,7 @@
 
 # 🚀 Retro Asteroids 8-Bit
 
-A high-contrast, vector-style Asteroids-inspired arcade game built entirely in a **single HTML file**—no external assets, no images, no libraries. Everything you see and hear is drawn and generated with code!
+A high-contrast, vector-style Asteroids-inspired arcade game.
 
 ---
 
